@@ -1,0 +1,8 @@
+name: LQQH
+type: theme
+description: 'tema para lo que quiero hacer'
+package: Other
+core_version_requirement: ^8.8 || ^9 || ^10
+libraries:
+  - lqqh/global
+base theme: false
